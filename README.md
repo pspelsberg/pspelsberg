@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Peppi (pspelsberg) 👋
+# 🚀 Hi there, I'm Patrick (pspelsberg) 👋
 
 <div align="center">
 
