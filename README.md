@@ -4,13 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=200&section=header&text=Building%20the%20Future%20of%20Autonomous%20AI%20Agents&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Harness+%26+Scaffolding+Engineer;Autonomous+Multi-Agent+Swarms+%26+Orchestration;Local-First+Architectures+%7C+Zero+Cloud+Lock-In;Enterprise+FastMCP+Gateways+%26+GDPR+Privacy+Vaults;LanceDB+Vector+Search+%26+Deterministic+RAG;Real-Time+Voice+Translation+%26+Audio+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Harness+%26+Scaffolding+Engineer;Autonomous+Multi-Agent+Swarms+%26+Orchestration;LottiCode+Model+%7C+Hugging+Face;Local-First+Architectures+%7C+Zero+Cloud+Lock-In;Enterprise+FastMCP+Gateways+%26+GDPR+Privacy+Vaults;LanceDB+Vector+Search+%26+Deterministic+RAG;Real-Time+Voice+Translation+%26+Audio+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/pspelsberg?label=Followers&style=social)](https://github.com/pspelsberg)
 [![Stars](https://img.shields.io/github/stars/pspelsberg?label=User%20Stars&style=social)](https://github.com/pspelsberg)
 [![Public Repositories](https://img.shields.io/badge/Public%20Repos-6%20Active-38bdf8?style=social&logo=github)](https://github.com/pspelsberg?tab=repositories)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-LottiCode%20Model-FFD21E?style=social&logo=huggingface)](https://huggingface.co/pspelsberg/lotti-code-model)
 
 </div>
 
@@ -21,6 +22,7 @@
 I am a software engineer and AI systems architect specializing in **Autonomous Agent Harnesses**, **Local-First Architectures**, and **Deterministic System Engineering**. I build resilient bridges between next-generation frontier LLMs (*Mistral, Claude, Gemini, GPT*) and local open-weights intelligence (*Ollama, LM Studio, DeepSeek, Qwen*), backed by robust sandbox isolation, privacy vaults, and test-driven self-healing loops.
 
 * 🧠 **Current Flagships:** Architecting **[HarnessForge](https://github.com/pspelsberg/harnessforge)** (visual state-graph agent engineering) and **[MCP Enterprise Gateway](https://github.com/pspelsberg/mcp-enterprise-gateway)** (sandboxed FastMCP gateway with GDPR vault).
+* 🤖 **Custom Open-Weights Model:** Creator of **[LottiCode (5B)](https://huggingface.co/pspelsberg/lotti-code-model)** on Hugging Face — specialized pure-execution coding engine fine-tuned for high-speed sub-agent task synthesis.
 * 🛡️ **Core Philosophy:** *Zero cloud lock-in, deterministic execution boundaries, Local Trust Mode, and prompt-as-a-variable workflows.*
 * 🧩 **Architectural Focus:** Vertical Slice Architecture (VSA), Modular Monoliths, OKF (Open Knowledge Format v0.2), and bounded vector retrieval.
 * 🔭 **Research Interests:** Recursive Language Models (RLM), ARC AGI challenges, MCP tool governance, and real-time multimodal audio streaming.
@@ -148,6 +150,30 @@ I am a software engineer and AI systems architect specializing in **Autonomous A
 
 ---
 
+## 🤖 Open-Weights AI Models & Fine-Tuning
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🐒 <a href="https://huggingface.co/pspelsberg/lotti-code-model">LottiCode (5B) — Pure Execution Code Model</a></h3>
+      <p align="center"><i>"Zero architectural bloat. Maximum 16-bit execution precision. Built to code down exact specifications."</i></p>
+      <ul>
+        <li><b>Specialized Role:</b> High-speed code-monkey worker model engineered to execute bite-sized, deterministic implementation tasks received from an architecture lead agent.</li>
+        <li><b>Execution Stack:</b> Pure generation across TypeScript/JavaScript, Express API routes, Python backends, and Tailwind CSS utility layouts.</li>
+        <li><b>Local Hardware Optimization:</b> 100% VRAM offload compatible with LM Studio & Ollama (Vulkan/ROCm acceleration on Linux). Compact context window (<code>8192</code>) for maximum output precision.</li>
+      </ul>
+      <p align="center">
+        <a href="https://huggingface.co/pspelsberg/lotti-code-model"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-pspelsberg%2Flotti--code--model-FFD21E?style=flat-square" /></a>
+        <img src="https://img.shields.io/badge/Architecture-Gemma_BF16-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Precision-16--bit%20Execution-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Parameters-5.12B-f59e0b?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
@@ -155,6 +181,7 @@ I am a software engineer and AI systems architect specializing in **Autonomous A
 ### 🤖 AI, Multi-Agent Swarms & Vector Memory
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastMCP](https://img.shields.io/badge/FastMCP_Protocol-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LanceDB](https://img.shields.io/badge/LanceDB_Vector-00D26A?style=for-the-badge&logo=database&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=ai&logoColor=white)
